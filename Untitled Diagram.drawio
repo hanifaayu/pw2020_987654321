@@ -1,1 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T14:47:46.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ELdlmGkZIuUq--T01iyO" version="15.2.7" type="github"><diagram id="X9LM8-6OHPxSq_sSTRPZ" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-15T15:16:38.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="1EMvL2TvHLwOTC5XPtNm" version="15.2.7" type="github">
+  <diagram id="X9LM8-6OHPxSq_sSTRPZ" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-1" value="Staff Loundry" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="110" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-2" value="Mahasiswi UNIDA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-3" value="memasukkan pakaian kotor&lt;br&gt;kedalam loundry" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="330" y="110" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-4" value="menimbang pakaian&amp;nbsp;&lt;br&gt;dan mencatat jenis-jenis&lt;br&gt;pakaian, sesuai&lt;br&gt;dengan warna yang&lt;br&gt;tlah ditentukan" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="315" y="200" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-5" value="membayar sesuai dengan hasil yang tertera dari timbangan&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="330" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-6" value="menempelkan kartu warna&amp;nbsp;&lt;br&gt;agar tidak tertukar&lt;br&gt;dengan yang lainya" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="317.5" y="390" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-7" value="meletakkan pakaian kotor sesuai dengan tempat&lt;br&gt;yang tlah disediakan" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="330" y="490" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="110" y="620" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-9" value="mengambil pakaian kotor yang tlah ditentukan warnanya dan membawanya ke tempat loundry untuk di cuci dengan segera" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="305" y="590" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zo-8hfbHLIxNELYUZ-1K-3" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="120" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zo-8hfbHLIxNELYUZ-1K-4" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="120" as="sourcePoint" />
+            <mxPoint x="490" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zo-8hfbHLIxNELYUZ-1K-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="120" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zo-8hfbHLIxNELYUZ-1K-6" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="120" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zo-8hfbHLIxNELYUZ-1K-7" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="120" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zo-8hfbHLIxNELYUZ-1K-9" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="140" y="655" as="sourcePoint" />
+            <mxPoint x="230" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-19" value="mengantarkan pakaian yang bersih&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="330" y="740" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zo-8hfbHLIxNELYUZ-1K-19" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="140" y="660" as="sourcePoint" />
+            <mxPoint x="500" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="785" as="sourcePoint" />
+            <mxPoint x="690" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-22" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zo-8hfbHLIxNELYUZ-1K-3" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="170" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zo-8hfbHLIxNELYUZ-1K-4" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="170" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zo-8hfbHLIxNELYUZ-1K-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="170" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zo-8hfbHLIxNELYUZ-1K-6" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="150" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontFamily=Times New Roman;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zo-8hfbHLIxNELYUZ-1K-7" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-28" value="mengecek pakaian &lt;br&gt;kembali" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="340" y="858" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-29" value="extend&#xa;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="570" y="520" width="140" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-32" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontFamily=Times New Roman;fontSize=23;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zo-8hfbHLIxNELYUZ-1K-28" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="187.64705882352942" as="sourcePoint" />
+            <mxPoint x="530" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zo-8hfbHLIxNELYUZ-1K-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Sistem loundry&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="50" y="70" width="720" height="930" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
